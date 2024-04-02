@@ -12,11 +12,11 @@
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(226, 225, 225);
 }
 
 .mainpage{
-  width: 90%;
+  width: 83%;
   margin: 0 auto;
 }
 ::selection {

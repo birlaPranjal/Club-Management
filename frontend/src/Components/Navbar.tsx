@@ -2,6 +2,7 @@ import React from 'react';
 import styles from "@/styles/Navbar.module.css"
 import { FiSearch } from "react-icons/fi";
 
+
 const Navbar = () => {
   return (
     <div className={styles.navbar}>
